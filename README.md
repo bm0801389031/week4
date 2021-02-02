@@ -47,3 +47,20 @@ The correct answer would be 17.
 Hint: Don't forget to check for bad values like null/undefined
 FUNDAMENTALS
 ARRAYS
+
+
+## fourth project
+4. Convert a Number to a String!
+
+We need a function that can transform a number into a string.
+
+What ways of achieving this do you know?
+
+Examples:
+
+numberToString(123); // returns '123';`   
+numberToString(999); // returns '999';`
+FUNDAMENTALS
+TYPE CASTING
+NUMBERS
+STRINGS
